@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Atlas>
+	<Texture filename="yuk.tex" />
+	<Elements>
+		<Element name="yuk.tex" u1="0.00195312" u2="0.732422" v1="0.446289" v2="0.999023" />
+	</Elements>
+</Atlas>
